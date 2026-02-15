@@ -1,0 +1,25 @@
+/* main.css */
+
+body {
+    font-family: "Arial", sans-serif;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+nav {
+    background-color: var(--nav-background-color);
+    color: var(--text-color);
+    margin-bottom: 20px;
+}
+
+.section {
+    padding: 0px 40px;
+    background-color: var(--section-background-color);
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: var(--section-text-color);
+}

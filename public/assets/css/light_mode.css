@@ -1,0 +1,8 @@
+/* light mode */
+:root {
+    --text-color: black;
+    --background-color: rgb(240, 240, 250);
+    --nav-background-color: rgb(160, 160, 190);
+    --section-background-color: rgb(220, 220, 250);
+    --section-text-color: rgb(130, 130, 130);
+}

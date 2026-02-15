@@ -1,0 +1,8 @@
+/* dark mode */
+:root {
+    --text-color: white;
+    --background-color: rgb(37, 37, 41);
+    --nav-background-color: rgb(50, 50, 56);
+    --section-background-color: rgb(56, 56, 61);
+    --section-text-color: rgb(163, 163, 163);
+}
